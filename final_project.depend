@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612492819 source:c:\users\vrbones\desktop\final_project\main.c
+	<stdio.h>
+	<stdlib.h>
+
